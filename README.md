@@ -63,7 +63,7 @@ Below is a curated comparison of leading hosted subscription social media and cr
 
 ## ⚡ Open-Source GitHub Projects
 
-Explore the premier self-hostable creator monetization platforms, paid membership software, and decentralized social networks. **Sorted descending by GitHub Stars_Count**.
+Explore the premier self-hostable creator monetization platforms, paid membership software, and decentralized social networks. **Sorted descending by GitHub_Stars_Count**.
 
 | 📦 Repository & Stars | 🛠️ Tech Stack & Architecture | 💡 Creator Monetization Capabilities | 📜 License |
 | :--- | :--- | :--- | :--- |
